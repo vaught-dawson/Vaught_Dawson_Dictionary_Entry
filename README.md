@@ -1,0 +1,3 @@
+# Dictionary Entry
+
+## Web Fundementals
