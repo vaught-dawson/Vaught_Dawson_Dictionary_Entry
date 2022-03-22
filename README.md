@@ -1,3 +1,3 @@
 # Dictionary Entry Assignment
 
-## Web Fundementals
+## Web Fundamentals
